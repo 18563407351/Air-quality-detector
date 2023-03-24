@@ -9,3 +9,5 @@ The workflow for the detector is shown in the image:
 * PM2.5 sensor
 * OLED Screen 0.96 inch
 * Temperature and Humidity(DTH11)
+
+## For further details, please refer to 'An Air quality detector.pdf'.
