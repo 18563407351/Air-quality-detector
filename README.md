@@ -3,7 +3,7 @@ The air quality detector to detect air condition to help users get the detailed 
 ## Principle Description
 The workflow for the detector is shown in the image:  
 
-![working procedure](https://github.com/18563407351/Air-quality-detector/blob/main/images/workflow.png))
+![working procedure](https://github.com/18563407351/Air-quality-detector/blob/main/images/workflow.png)
 ## Components:  
 * Arduino Nano
 * PM2.5 sensor
