@@ -10,4 +10,4 @@ The workflow for the detector is shown in the image:
 * OLED Screen 0.96 inch
 * Temperature and Humidity(DTH11)
 
-## For further details, please refer to 'An Air quality detector.pdf'.
+### For further details, please refer to 'An Air quality detector.pdf'.
